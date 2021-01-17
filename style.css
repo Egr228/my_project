@@ -1,0 +1,26 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+
+  background-color:#ADD8E6 ;
+    
+}
+
+
+h1{
+
+ background-color:#ADD8E6 ;
+
+ color: rgb(38, 0, 255);
+
+}
+
+footer{
+    background-color: white;
+}
+
+footer p{
+    background-color: green;
+}
